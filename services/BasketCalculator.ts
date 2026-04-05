@@ -12,6 +12,7 @@ export class BasketCalculator {
     Banana: new NoDiscount(),
     Melon: new BuyOneGetOneFree(),
     Lime: new Buy3Get2(),
+    Guava: new Buy1Get1()
   };
 
   calculate(basket: string[]): number {

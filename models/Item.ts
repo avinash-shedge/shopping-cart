@@ -1,1 +1,1 @@
-export type Item = "Apple" | "Banana" | "Melon" | "Lime";
+export type Item = "Apple" | "Banana" | "Melon" | "Lime" | "Grapes";
